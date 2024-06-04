@@ -1,0 +1,5 @@
+tensorflow==2.9.0
+scipy
+scikit-learn
+matplotlib
+pandas

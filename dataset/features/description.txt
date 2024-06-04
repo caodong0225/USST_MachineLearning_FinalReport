@@ -1,0 +1,74 @@
+（1-160）：按照不同导联的theta slow-alpha alpha beta gamma顺序排列（5频段），32导联排列顺序如下
+1 	Fp1
+2 	AF3
+3 	F3
+4 	F7
+5 	FC5
+6 	FC1
+7 	C3
+8 	T7
+9 	CP5
+10	CP1
+11	P3
+12	P7
+13	PO3
+14	O1
+15	Oz
+16	Pz
+17	Fp2
+18	AF4
+19	Fz
+20	F4
+21	F8
+22	FC6
+23	FC2
+24	Cz
+25	C4
+26	T8
+27	CP6
+28	CP2
+29	P4
+30	P8
+31	PO4
+32	O2
+
+（161-216）：对称导联（14组）的右半球-左半球PSD差，导联对顺序如下：
+1 	Fp1
+2 	AF3
+3 	F3
+4 	F7
+5 	FC5
+6 	FC1
+7 	C3
+8 	T7
+9 	CP5
+10	CP1
+11	P3
+12	P7
+13	PO3
+14	O1
+
+
+（217-344）：32导联EEG的均值、方差、过零点率、熵（32*4=128）。
+
+（345）：眨眼频率。
+
+（346-349）：2导联EOG和2导联EMG能量。
+
+（350-365）：上述4导联信号均值、方差、过零点率、熵。
+
+（366-371）：体温[0-0.1HZ]功率、体温[0.1-0.2HZ]功率、均值、方差、熵、导数均值。
+
+（372-396）：GSR均值、导数均值、导数负值均值、导数负/总比、局部最小个数、平均上升时间、15个GSR功率、gsr[0 0.2]频段的零点率、gsr[0 0.8]频段的零点率、gsr[0 0.2]频段均值、gsr[0 0.8]频段均值。
+
+（397-409）：hr_mean hr_std hrv_mean hrv_std bti_mean bti_std pres_power_ratio pres_power1 pres_power2 pres_power3 pres_power4 pres_power5 pres_power6
+
+（410-431）：resp_ratio resp_mean resp_der_mean resp_cen resp_rate resp_power（15） resp_int_mean resp_int_median
+
+
+
+
+
+
+
+
